@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1658259310 source:c:\users\lukas\onedrive\documentos\projetos c\menor-de-tres\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

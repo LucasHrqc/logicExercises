@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658250621 source:c:\users\lukas\onedrive\documentos\projetos c\do-while\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
